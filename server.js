@@ -1,0 +1,10 @@
+'use strict';
+require('dotenv').config();
+var express = require('express');
+var routes = require('./routesHeroes.js');
+const app = express();
+var port = process.env.PORT || 3000;
+routes(app);
+app.use('/static', express.static(__dirname + '/public'));
+app.listen(port);
+console.log(`App rodando em http://localhost:${port}`);
