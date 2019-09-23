@@ -9,10 +9,10 @@ Backend: Node.Js
   Apenas uma api rest para buscar os dados da api da Marvel e gerar as configurações de acesso exigidas pela api
   
 Frontend: Html, Javascript, jquery e Bootstrap
-  Uma página bastante simples para apresntar os dados da api criada em Node.js
+  Uma página bastante simples para apresentar os dados da api criada em Node.js
   
 
-Rodando o projeto será necessário:
+Rodando o projeto:
 
 Instalar o Node.js (https://nodejs.org/en/download/)
 
