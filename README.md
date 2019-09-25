@@ -1,7 +1,6 @@
 # meusherois
 Projeto para teste da API Marvel comics, serão listados três heróis da marvel cada um em uma aba.
 
-Projeto criado como teste para a Kinghost.
 
 Foram usadas as técnologias:
 
